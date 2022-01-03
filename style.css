@@ -4,8 +4,8 @@ body{
 
 }
 .full{
-    width: 80%  ;
-    height: 1080 px ;
+    max-width: 80%  ;
+    max-height: auto;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     margin: auto;
