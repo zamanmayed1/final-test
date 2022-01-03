@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.full{
+    width: 80%  ;
+    height: 1080 px ;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin: auto;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: inline-block;
+    overflow: hidden;
+  
+   
+
+}
+.left{
+    background-color: #FFE6C9;
+    width: 50%;
+    height: 100%;
+    padding: 70px;
+    float: left;
+   
+}
+img{
+    height: 500px;
+    width: auto;
+}
+
+.workwith{
+    color: #631E48;
+}
+.right{
+    padding-left: 1000px;
+    padding-top: 100px;
+    margin: auto;
+    
+}
+    
+.google{
+    width: 150px;
+    height: 50px;
+
+    border: 1px solid black;
+    margin: auto;
+    display: inline;
+    
+    padding: 10px 10px 10px 15px;
+    
+  
+    
+}
+
+button{
+    width: 420px;
+    height: 50px;
+}
+.form{
+    width: 420px;
+    height: auto;
+    float: left;
+    
+    
+}
+
+.em{
+    width: 250px;
+    height: 30px;
+}
